@@ -1,0 +1,278 @@
+{
+    "package": {
+        "downloadUrlList": [
+            "https://www.dropbox.com/scl/fi/2408otv73kr67ney93sgx/YouTubeTV_v7a.apk?rlkey=3zqd0iub4mhjeexk660ludz81&st=rozxe78d&dl=1"
+        ],
+        "downloadUrlList_x86": [
+            "https://www.dropbox.com/scl/fi/5tefszqm4mksjlc05gf5i/YouTubeTV_x86.apk?rlkey=bl4olz9qt6laobzkijn67l9lf&st=emcelzyv&dl=1"
+        ],
+        "downloadUrlList_arm64-v8a": [
+            "https://www.dropbox.com/scl/fi/gntn56nvkawmyju5w3ke1/YouTubeTV_v8a.apk?rlkey=s1f1d807akxldkbx8hy63pkm6&st=vt3qjz5y&dl=1"
+        ]
+    },
+
+    "27.53": {
+        "versionCode": 1943,
+        "changelog": ["Playback errors fixes"],
+        "changelog_ru": ["Исправления ошибок воспроизведения"],
+        "changelog_uk": ["Виправлення помилок відтворення"]
+    },
+    "27.37": {
+        "versionCode": 1927,
+        "changelog": ["Added new functionality: long press on the comment to set/remove like", "Previous release fixes"],
+        "changelog_ru": ["Добавлена ​​новая функция: долгое нажатие на комментарий, чтобы поставить/удалить отметку Нравится"],
+        "changelog_uk": ["Додано нову функцію: довге натискання на коментар, щоб поставити/видалити лайк"]
+    },
+    "27.03": {
+        "versionCode": 1893,
+        "changelog": ["403 error fix V7"],
+        "changelog_ru": ["403 error fix V7"],
+        "changelog_uk": ["403 error fix V7"]
+    },
+    "27.02": {
+        "versionCode": 1892,
+        "changelog": ["403 error fix V6"],
+        "changelog_ru": ["403 error fix V6"],
+        "changelog_uk": ["403 error fix V6"]
+    },
+    "27.01": {
+        "versionCode": 1891,
+        "changelog": ["403 error fixes V4 & V5"],
+        "changelog_ru": ["403 error fixes V4 & V5"],
+        "changelog_uk": ["403 error fixes V4 & V5"]
+    },
+    "26.96": {
+        "versionCode": 1886,
+        "changelog": ["403 error fix 3"],
+        "changelog_ru": ["403 error fix 3"],
+        "changelog_uk": ["403 error fix 3"]
+    },
+    "26.95": {
+        "versionCode": 1885,
+        "changelog": ["403 error fix 2"],
+        "changelog_ru": ["403 error fix 2"],
+        "changelog_uk": ["403 error fix 2"]
+    },
+    "26.75": {
+        "versionCode": 1865,
+        "changelog": ["Empty or broken Channels/Subscriptions fix", "Playback fix when the Arabic language selected", "Empty account image fix", "New option: Settings/SonsorBlock/Misc/Paid content notification", "New option: Settings/Player/Misc/Audio focus"],
+        "changelog_ru": ["Исправление неработающих разделов Каналы/Подписки"],
+        "changelog_uk": ["Виправлення непрацюючих разділів Канали/Підписки"]
+    },
+    "26.47": {
+        "versionCode": 1837,
+        "changelog": ["Latest 403 error fixes"],
+        "changelog_ru": ["Последние исправления ошибки 403"],
+        "changelog_uk": ["Останні виправлення помилки 403"]
+    },
+    "26.11": {
+        "versionCode": 1801,
+        "changelog": ["Playback error fixes"],
+        "changelog_ru": ["Исправление ошибок воспроизведения"],
+        "changelog_uk": ["Виправлення помилок відтворення"]
+    },
+    "26.10": {
+        "versionCode": 1800,
+        "changelog": ["Playback error 403 fix", "Casting:  volume control sync fix", "Added My Videos section (Settings/General/Setup sections)", "Added Live section (Settings/General/Setup sections)", "Channels section sorting fix"],
+        "changelog_ru": ["Исправлена ​​ошибка воспроизведения 403", "Casting: исправлена ​​синхронизация регулировки громкости", "Добавлен раздел Мои видео (Настройки»/Общие/Настроить разделы)", "Добавлен раздел Live (Настройки»/Общие/Настроить разделы)", "Исправлена ​​сортировка раздела Каналы"],
+        "changelog_uk": ["Виправлено помилку відтворення 403", "Керування з телефону: виправлено синхронізацію керування гучністю", "Додано розділ Мої віде» (Налаштування/Загальні/Налаштування розділів)", "Додано розділ Live (Налаштування/Загальні/Налаштування розділів)", "Виправлено сортування розділу Канали"]
+    },
+    "25.87": {
+        "versionCode": 1777,
+        "changelog": ["Playback error fixes", "Playlist section order fix"],
+        "changelog_ru": ["Исправление ошибок воспроизведения"],
+        "changelog_uk": ["Виправлення помилок відтворення"]
+    },
+    "25.81": {
+        "versionCode": 1771,
+        "changelog": ["Shorts playback fix", "Import Subscriptions groups from NewPipe fix", "Improved video start-up time", "A new option for increasing the list of available subtitles: Settings/Player/Dev. options/Unlock more subtitles"],
+        "changelog_ru": ["Исправлено воспроизведение коротких видео", "Исправлено импортирование групп подписок из NewPipe", "Улучшено время запуска видео", "Новая опция для увеличения списка доступных субтитров: Настройки/Плеер/Параметры разработчика/Unlock more subtitles"],
+        "changelog_uk": ["Виправлено відтворення Shorts", "Виправлено імпорт груп підписок із NewPipe", "Покращено час запуску відео", "Нова опція для збільшення списку доступних субтитрів: Налаштування/Плеєр/Для розробників/Unlock more subtitles"]
+    },
+    "25.64": {
+        "versionCode": 1754,
+        "changelog": ["Improved 'no account' experience. Now you can add, create, and edit playlists without an account", "For signed users, the missing playlist functionality like creating a new playlist is restored", "Improved audio control during video casting from the phone", "Improved playback stability and buffering is decreased"],
+        "changelog_ru": ["Улучшено работу «без учетной записи». Теперь можно добавлять, создавать и редактировать списки воспроизведения без учетной записи", "Для зарегистрированных пользователей восстановлены отсутствующие функции списка воспроизведения, например, создание нового списка воспроизведения", "Улучшено управление звуком при трансляции видео с телефона", "Улучшена стабильность воспроизведения и уменьшена буферизация"],
+        "changelog_uk": ["Покращено роботу «без облікового запису». Тепер ви можете додавати, створювати та редагувати списки відтворення без облікового запису", "Для зареєстрованих користувачів відновлено відсутні функції списку відтворення, наприклад створення нового списку відтворення", "Покращено керування звуком під час трансляції відео з телефону", "Покращено керування звуком під час трансляції відео з телефону"]
+    },
+    "25.24": {
+        "versionCode": 1714,
+        "changelog": ["The app stability improvements", "Subscription groups: added import from GrayJay and PocketTube (Settings/General/Context menu/Subscription groups)", "The video comments style is changed to darker (good for eyes, especially on OLED TVs). The old one cannot be reverted for now", "Improved audio language preference: disable AI audio translation by selecting the Default option (Settings/Player/Audio language/Default); languages list reworked - the recent selection is now on the top of the list"],
+        "changelog_ru": ["Улучшения стабильности приложения", "Группы подписок: добавлен импорт из GrayJay и PocketTube (Настройки/Основные/Контекстное меню/Группы подписок)", "Стиль комментариев изменен на более темный (хорошо для глаз, особенно на OLED-телевизорах). Старый стиль пока нельзя вернуть", "Улучшены настройки языка аудио: отключение AI перевода аудио путем выбора параметра «По умолчанию» (Настройки/Плеер/Язык аудио/По умолчанию); список языков переработан - последний выбор теперь находится вверху списка"],
+        "changelog_uk": ["Покращення стабільності програми", "Групи підписок: додано імпорт із GrayJay та PocketTube (Налаштування/Загальні/Контекстне меню/Групи підписок)", "Стиль відеокоментарів змінено на темніший (корисно для очей, особливо на OLED-телевізорах). Старий поки що неможливо повернути", "Покращено налаштування мови аудіо: вимкнути AI переклад аудіо можна обравши параметр «За замовчуванням» (Налаштування/Плеєр/Мова аудіо/За замовчуванням); перероблено список мов - нещодавно обрані мови тепер у верхній частині списку"]
+    },
+    "25.08": {
+        "versionCode": 1698,
+        "changelog": ["App functions restored"],
+        "changelog_ru": ["Функции приложения восстановлены"],
+        "changelog_uk": ["Функції програми відновлено"]
+    },
+    "24.89": {
+        "versionCode": 1679,
+        "changelog": ["Empty pinned playlist fix", "Empty Home section fix", "Playback error fixes"],
+        "changelog_ru": ["Исправление пустого закрепленного плейлиста", "Исправление пустого раздела Home", "Исправление ошибок воспроизведения"],
+        "changelog_uk": ["Виправлено порожній закріплений список відтворення", "Виправлено порожній розділ Home", "Виправлення помилок відтворення"]
+    },
+    "24.71": {
+        "versionCode": 1661,
+        "changelog": ["Liked music fix", "Subtitles fix", "Channel search fix", "Empty pinned channel fix", "Playlist section sorting fix"],
+        "changelog_ru": ["Исправление критических ошибок воспроизведения"],
+        "changelog_uk": ["Виправлення критичних помилок відтворення"]
+    },
+    "24.61": {
+        "versionCode": 1651,
+        "changelog": ["Critical Playback errors fix"],
+        "changelog_ru": ["Исправление критических ошибок воспроизведения"],
+        "changelog_uk": ["Виправлення критичних помилок відтворення"]
+    },
+    "24.53": {
+        "versionCode": 1643,
+        "changelog": ["Empty Subscriptions fix", "Empty Channel content fix", "The app performance optimizations"],
+        "changelog_ru": ["Исправление пустых каналов и подписок"],
+        "changelog_uk": ["Виправлення порожніх каналів та підписок"]
+    },
+    "24.37": {
+        "versionCode": 1627,
+        "changelog": ["GDrive backup error fixes", "Empty user playlists fix", "Empty home section fix", "No search history fix", "Recently used subtitles are moved to the top"],
+        "changelog_ru": ["Исправления ошибок резервного копирования GDrive", "Исправление пустых пользовательских плейлистов", "Исправление пустого домашнего раздела", "Исправление отсутствия истории поиска", "Теперь все недавно использованные субтитры отображаются перед другими"],
+        "changelog_uk": ["Виправлення помилок резервного копіювання GDrive", "Виправлено порожні користувацькі плейлисти", "Виправлено порожній домашній розділ", "Виправлення відсутної історії пошуку", "Тепер усі нещодавно використані субтитри відображаються перед іншими"]
+    },
+    "24.14": {
+        "versionCode": 1604,
+        "changelog": ["Added PocketTube like functionality. Grouping channels into subscriptions groups. How to add a channel. Open the context menu of any video and select Add the channel to the new subscription group. The group will be pinned on the sidebar. The respective context menu should be explicitly enabled via Settings/General/Context menu", "Improved anonymous experience (no account selected). Added fully functional subscriptions and channels sections", "Bugfixes: login fix, chapters fix"],
+        "changelog_ru": ["Добавлен функционал, подобный PocketTube. Группировка каналов в группы подписок. Как добавить канал. Откройте контекстное меню любого видео и выберите Добавить канал в новую группу подписок. Группа будет закреплена на боковой панели. Соответствующее контекстное меню должно быть включено через Настройки/Общие/Контекстное меню"],
+        "changelog_uk": ["Додано функціонал подібний PocketTube. Групування каналів у групи підписок. Як додати канал. Відкрийте контекстне меню будь-якого відео та виберіть Додати канал до нової групи підписок. Група буде закріплена на бічній панелі. Відповідне контекстне меню має бути увімкнуто через Параметри/Загальні/Контекстне меню"]
+    },
+    "23.59": {
+        "versionCode": 1549,
+        "changelog": ["The history section now working even though no account is selected", "Playback error fixes for some situations", "History not working fix for regular accounts"],
+        "changelog_ru": ["Раздел истории теперь работает, даже если не выбрана учетная запись", "Исправлены ошибки воспроизведения в некоторых ситуациях", "Исправлена ​​ошибка, из-за которой история не работала для обычных учетных записей"],
+        "changelog_uk": ["Розділ історії тепер працює, навіть якщо обліковий запис не вибрано", "Виправлення помилок відтворення для деяких ситуацій", "Виправлення непрацюючої історії для звичайних облікових записів"]
+    },
+    "23.30": {
+        "versionCode": 1520,
+        "changelog": ["Unplayable videos fix", "Live streams fix when the buffer set to none", "Crash fixes"],
+        "changelog_ru": ["Исправление неработающих видео"],
+        "changelog_uk": ["Виправлення непрацюючих відео"]
+    },
+    "22.95": {
+        "versionCode": 1485,
+        "changelog": ["Playback error fixes"],
+        "changelog_ru": ["Исправление ошибок воспроизведения"],
+        "changelog_uk": ["Виправлення помилок відтворення"]
+    },
+    "22.81": {
+        "versionCode": 1471,
+        "changelog": ["Final fix for the 403 error"],
+        "changelog_ru": ["Финальное решение ошибки 403"],
+        "changelog_uk": ["Фінальне виправлення помилки 403"]
+    },
+    "22.80": {
+        "versionCode": 1470,
+        "changelog": ["Temporary fix for the 403 error (up to 4K)"],
+        "changelog_ru": ["Временное решение ошибки 403 (до 4К)"],
+        "changelog_uk": ["Тимчасове виправлення помилки 403 (до 4K)"]
+    },
+    "22.74": {
+        "versionCode": 1464,
+        "changelog": ["Another 403 error fix"],
+        "changelog_ru": ["Еще одно исправление ошибки 403"],
+        "changelog_uk": ["Ще одне виправлення помилки 403"]
+    },
+    "22.69": {
+        "versionCode": 1459,
+        "changelog": ["Fix for the recent 403 error"],
+        "changelog_ru": ["Еще одно исправление ошибки 403"],
+        "changelog_uk": ["Ще виправлення помилки 403"]
+    },
+    "22.65": {
+        "versionCode": 1455,
+        "changelog": ["Unplayable videos fix"],
+        "changelog_ru": ["Исправление неработающих видео"],
+        "changelog_uk": ["Виправлення непрацюючих відео"]
+    },
+    "22.44": {
+        "versionCode": 1434,
+        "changelog": ["403 error fix for everyone (any resolution)"],
+        "changelog_ru": ["Исправление ошибки 403 (до 4K)"],
+        "changelog_uk": ["Виправлення помилки 403 (до 4К)"]
+    },
+    "22.38": {
+        "versionCode": 1428,
+        "changelog": ["Temporal 403 error fix (sorry, FullHD only)"],
+        "changelog_ru": ["Временное исправление ошибки 403 (извините, только FullHD)"],
+        "changelog_uk": ["Тимчасове виправлення помилки 403 (вибачте, лише FullHD)"]
+    },
+    "22.37": {
+        "versionCode": 1427,
+        "changelog": ["Another 403 error fix?"],
+        "changelog_ru": ["Еще исправление ошибки 403?"],
+        "changelog_uk": ["Ще виправлення помилки 403?"]
+    },
+    "22.36": {
+        "versionCode": 1426,
+        "changelog": ["403 error fix?"],
+        "changelog_ru": ["Исправление ошибки 403?"],
+        "changelog_uk": ["Виправлення помилки 403?"]
+    },
+    "22.19": {
+        "versionCode": 1409,
+        "changelog": ["Settings/General/Key remapping/Skip regular videos with LEFT/RIGHT", "Settings/General/Key remapping/Skip shorts with LEFT/RIGHT", "Player: added new playback mode: play playlist in reverse order (Settings/Player/Playback mode)", "New option: Automatic cloud backup. Settings/Backup & Restore/GDrive/Misc/Auto backup", "Fixed the issue when the app does not show all replies to comments", "Possible buffering fixes", "Previous release bug fixes"],
+        "changelog_ru": ["Плеер: добавлен новый режим воспроизведения: воспроизвести плейлит в обратном порядке", "Новая опция: автоматическое резервное копирование в облако. Настройки/Резервное копирование и восстановление/GDrive/Разное/Автоматическое резервное копирование", "Исправлена ​​проблема, когда приложение не отображало все ответы на комментарии", "Возможные исправления буферизации"],
+        "changelog_uk": ["Плеєр: додано новий режим відтворення: відтворення плейлисту у зворотному порядку", "Нова опція: автоматичне резервне копіювання в хмару. Налаштування/Резервне копіювання та відновлення/GDrive/Різне/Автоматичне резервне копіювання", "Виправлено проблему, коли додаток не показує всі відповіді на коментарі", "Можливе виправлення багу з буферизацією"]
+    },
+    "21.91": {
+        "versionCode": 1381,
+        "changelog": ["New feature: Backup app data to Google Drive. Location: Settings/Backup & Restore/Google Drive", "Fixed issue when video resumed from an inaccurate position", "Player: 403 error fix", "Small bug fixes"],
+        "changelog_ru": ["Новая функция: резервное копирование данных приложения на Google Drive. Настройки/Резервное копирование и восстановление/Google Drive", "Исправлена проблема, когда видео возобновлялось с неточной позиции", "Исправлены небольшие ошибки"],
+        "changelog_uk": ["Нова фіча: резервне копіювання даних застосунка на Google Drive. Налаштування/Резервне копіювання та відновлення/Google Drive", "Виправлена проблема, коли відео відновлювалося з неточної позиції", "Виправлення невеликих помилок"]
+    },
+    "21.69": {
+        "versionCode": 1359,
+        "changelog": ["Added additional speeds into the player: Settings/Player/Speed/Misc/Extra long speed list", "Added AFR player button: Settings/Player/Enable buttons", "New option: Settings/General/Misc/Remember last viewed position in the pinned playlists", "Fixed opening channel links inside a video description", "Comments: no replies fix", "New option: Settings/Auto Frame Rate/Auto Frame Rate/Skip Shorts"],
+        "changelog_ru": ["В плеер добавлены дополнительные скорости: Настройки/Плеер/Скорость/Разное/Очень длинный список скоростей", "В плеер добавлена кнопка AFR: Настройки/Плеер/Включить кнопки", "Новая опция: Настройки/Общие/Разное/Запоминать последнюю просмотренную позицию в закрепленных плейлистах", "Исправлено открытие ссылок на каналы внутри описания видео", "Комментарии: Исправлена проблема с открытием ответов", "Новая опция: Настройки/Auto Frame Rate/Auto Frame Rate/Пропускать Shorts"],
+        "changelog_uk": ["Нова опція: Налаштування/Загальні/Різне/Запам'ятовувати останню переглянуту позицію у закріплених плейлистах", "Виправлено відкриття посилань на канали в описі відео", "Коментарі: Виправлено проблему з відкриттям відповідей", "Нова опція: Налаштування/Auto Frame Rate/Auto Frame Rate/Пропускати Shorts", "В плеєр додані додаткові швидкості: Налаштування/Програвач/Швидкість/Різне/Довгий список швидкостей", "В плеєр додано кнопку AFR: Налаштування/Плеєр/Увімкнути кнопки"]
+    },
+    "21.54": {
+        "versionCode": 1344,
+        "changelog": ["Stability fixes", "New setting item to display pinned channel as a rows: Settings/User Interface/Misc/Display pinned channel as a rows", "New setting item to auto remove watched videos from Watch later playlist: Settings/General/Hide unwanted content/Hide watched from Watch later playlist", "Amazon Alexa play command fix", "Captions: added side padding for better view"],
+        "changelog_ru": ["Новая настройка: Настройки/Интерфейс/Разное/Отображать закрепленный канал в виде строк", "Новая настройка: Настройки/Общие/Скрывать нежелательное содержимое/Скрывать просмотренные видео из плейлиста Посмотреть позже", "Закрепленные каналы теперь отображаются полностью, в виде строк (загруженные видео, плейлисты и т.д.)", "Исправлена команда 'play' Amazon Alexa.", "Субтитры: изменен формат, добавлены боковые отступы", "Исправления буферизации"],
+        "changelog_uk": ["Нове налаштування: Налаштування/Інтерфейс/Різне/Відображати закріплений канал у вигляді рядків", "Нове налаштування: Налаштування/Загальні/Приховати небажаний вміст/Приховати переглянуті відео із плейлисту Переглянути пізніше", "Закріплені канали тепер відображаються повністю, у вигляді рядків (завантажені відео, плейлисти тощо)", "Виправлено команду 'play' Amazon Alexa", "Субтитри: змінено формат, додано бічні відступи", "Виправлення буферизації"]
+    },
+    "21.34": {
+        "versionCode": 1324,
+        "changelog": ["Added crowdsourced video thumbnails (Settings/DeArrow/Replace titles)", "Added crowdsourced video titles (Settings/DeArrow/Replace titles)", "Added Sports section (Settings/General/Set-up sections)", "Added player mute button (Settings/Player/Set-up buttons)", "Player: added Pitch effect setting (Player/HQ Dialog/Pitch effect)", "Added Oculus Quest fix as an option: Settings/Player/Dev. options/Oculus Quest fix", "Old look of the Channel page: Settings/General/Misc/Old look of the Channel page", "Exit from the player with a double back: Settings/Player/Exit from the player", "Amazon Alexa play command fix", "Captions: added side padding for better view and timing fixes"],
+        "changelog_ru": ["Старый вид страницы Канала: Настройки/Общие/Разное/Старый вид страницы Канала", "Выход из плеера по двойному назад: Настройки/Плеер/Выход из плеера", "Плеер: добавлена настройка эффекта высоты тона (Плеер/HQ диалог/Эффект высоты тона)", "Добавлены миниатюры видео, полученные с помощью краудсорсинга (Настройки/DeArrow/Разное/Заменить мініатюри)", "Добавлены заголовки видео, полученные с помощью краудсорсинга (Настройки/DeArrow/Разное/Заменить заголовки)"],
+        "changelog_uk": ["Додано краудсорсингові мініатюри відео (Налаштування/DeArrow/Різне/Замінити мініатюри)", "Додано краудсорсингові заголовки відео (Налаштування/DeArrow/Різне/Замінити заголовки)", "Плеєр: додано налаштування ефекту висоти тону (Плеєр/HQ діалог/Ефект висоти тону)", "Вихід із плеєра за подвійним назад: Налаштування/Плеєр/Вихід із плеєра", "Старий вид сторінки Канала: Налаштування/Загальні/Різне/Старий вид сторінки Канала"]
+    },
+    "20.90": {
+        "versionCode": 1280,
+        "changelog": ["Added key mapping: Next/Previous -> Fast Forward/Rewind (Settings/General/Key mapping)", "Added key mapping: DPAD LEFT/RIGHT -> Volume Down/Up (Settings/General/Key mapping)", "Added key mapping: DPAD UP/DOWN -> Volume Up/Down (Settings/General/Key mapping)", "Added key mapping: Channel UP/DOWN -> Volume Up/Down (Settings/General/Key mapping)", "Added key mapping: DPAD UP/DOWN -> Speed Up/Down (Settings/General/Key mapping)", "Added option to mute the audio track. Player/HQ/Audio format/Disable", "Remember the comments position after close", "Fix audio focus when the audio track is disabled", "Casting fix", "Playback buffering fix", "Login fixes", "Touch screen support: back gesture fix", "Screensaver fix", "PIP fix", "AFR fix", "Fix absent incognito item in the context menu", "Comments focus lost fix"],
+        "changelog_ru": ["Запоминать позицию комментариев. Использовать аудио фокус с Spotify", "Переопределение клавиш: Next/Prev -> Seek, DPAD LEFT/RIGHT -> Volume Down/Up, DPAD UP/DOWN -> Volume Up/Down, Channel UP/DOWN -> Volume Up/Down, DPAD UP/DOWN -> Speed Up/Down", "Возможность отключить звуковую дорожку. Плеер/HQ/Аудиоформат/Отключить", "Player: Запоминать позицию прямых трансляций (Settings/Player/Misc)", "Исправление входа в аккаунт, скринсейвера, PIP, AFR, режима инкогнито, фокуса в каментах, управления жестами"],
+        "changelog_uk": ["Перевизначення клавіш: Next/Prev -> Seek, DPAD LEFT/RIGHT -> Volume Down/Up, DPAD UP/DOWN -> Volume Up/Down, Channel UP/DOWN -> Volume Up/Down, DPAD UP/DOWN -> Speed Up/Down", "Можливість вимкнути звукову доріжку. Плеєр/HQ/Аудіоформат/Вимкнути", "Player: Запам'ятовувати позицію прямих трансляцій (Settings/Player/Misc)", "Виправлення входу в обліковий запис, роботи PIP, AFR, інкогніто, втраченого фокусу у коментарях, виправлення керування жестами"]
+    },
+    "20.56": {
+        "versionCode": 1246,
+        "changelog": ["Added option to disable looping shorts: Setting/Player/Misc/Skip Shorts", "Search history fix (need to log in again)", "Added options to hide the Channel search bar and filter inside the Channels page. Settings/UI/Misc/Enable Channels filter and Search Bar", "Player: restore speed fix after sleep"],
+        "changelog_ru": ["Добавлена опция отключения зацикливания коротких видео: Настройка/Плеер/Разное/Пропустить короткие видео", "Исправлена история поиска (необходимо снова войти в систему)", "Добавлены параметры, позволяющие скрыть панель поиска каналов и фильтр на странице Каналы. Настройки/Интерфейс/Разное/Включить фильтр каналов и панель поиска", "Плеер: исправлено восстановление скорости после сна"],
+        "changelog_uk": ["Додана опція для вимкнення зациклення коротких відео: Налаштування/Плеєр/Різне/Пропустити короткі відео", "Виправлено історію пошуку (потрібно увійти знову)", "Додано параметри приховування панелі пошуку каналів і фільтрування на сторінці каналів. Параметри/Інтерфейс користувача/Різне/Увімкнути фільтр каналів і панель пошуку", "Плеєр: виправлено відновлення швидкості після сну"]
+    },
+    "20.36": {
+        "versionCode": 1226,
+        "changelog": ["Loop Shorts option: Settings/Player/Misc/Loop Shorts", "Channels section: added channel list filter", "Channel update: added search and sort uploaded videos by date.", "Add new option: Settings/Search/Misc/Fix show keyboard by the OK key press (G20s and others)"],
+        "changelog_ru": ["Опция Зациклить короткие видео: Настройки/Плеер/Разное/Зациклить короткие видео", "Раздел Каналы: добавлен фильтр списка каналов", "Обновление канала: добавлен поиск и сортировка загруженных видео по дате.", "Новая опция: Настройки/Поиск/Разное/Исправить отображение клавиатуры при нажатии клавиши ОК (G20 и другие)"],
+        "changelog_uk": ["Опція зациклити короткі відео: Налаштування/Плеєр/Різне/зациклити короткі відео", "Розділ Канали: додано фільтр списку каналів", "Оновлення каналу: додано пошук і сортування завантажених відео за датою.", "Нова опція: Налаштування/Пошук/Різне/Виправити показ клавіатури натисканням клавіші OK (G20s та інші)"]
+    },
+    "20.05": {
+        "versionCode": 1195,
+        "changelog": ["Player: rollback playback error fixes"],
+        "changelog_ru": ["Плеер: откат исправлений ошибок воспроизведения"],
+        "changelog_uk": ["Плеєр: откат виправлення помилок відтворення"]
+    },
+    "20.04": {
+        "versionCode": 1194,
+        "changelog": ["Player: no chapters fix", "Updated Monochrome theme to be more OLED friendly. Settings/UI/Color schemes", "Touch screen support: added vertical orientation", "Audio language selection fix", "Possible fix for the playback errors"],
+        "changelog_ru": ["Плеер: исправлено отсутствие глав", "Обновлена Монохромная тема, чтобы быть более дружелюбной к OLED. Настройки/Интерфейс/Цветовые схемы", "Сенсорный экран: добавлена вертикальная ориентация.", "Исправлен выбор языка аудио", "Возможное исправление ошибок воспроизведения"],
+        "changelog_uk": ["Плеєр: виправлено відсутність розділів", "Оновлена монохромна тема, щоб бути більш дружньою до OLED. Налаштування/Інтерфейс/Цвітові схеми", "Сенсорний екран: додана вертикальна орієнтація", "Виправлено вибір мови аудіо", "Можливе виправлення помилок відтворення"]
+    }
+}
