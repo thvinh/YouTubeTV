@@ -11,6 +11,18 @@
         ]
     },
 
+    "27.99": {
+        "versionCode": 1989,
+        "changelog": ["403 error fixes", "Added unlocalized video titles option. Settings/UI/Misc/Unlocalized video titles"],
+        "changelog_ru": ["Исправления ошибки 403", "Добавлена опция для отключения перевода названий видео (видео должно иметь локализацию). Настройки/Интерфейс/Разное/Не переводить названия видео"],
+        "changelog_uk": ["Виправлення помилки 403", "Додано опцію для відключення перекладу назв відео (відео повинно мати локалізацію). Налаштування/Інтерфейс/Різне/Не перекладати назви відео"]
+    },
+    "27.92": {
+        "versionCode": 1982,
+        "changelog": ["Added card previews with the SOUND! Disabled by default! Enable here: Settings/UI/Card preview/Video with sound", "Auto volume improvements", "Stability improvements"],
+        "changelog_ru": ["Добавлен предпросмотр карточек со ЗВУКОМ! ВЫКЛЮЧЕНО по умолчанию! Включить: Настройки/Интерфейс/Предпросмотр карточек"],
+        "changelog_uk": ["Додано попередній перегляд карток зі ЗВУКОМ! ВИМКНЕНО за замовчуванням! Увімкнути: Налаштування/Інтерфейс/Попередній перегляд карток"]
+    },
     "27.53": {
         "versionCode": 1943,
         "changelog": ["Playback errors fixes"],
