@@ -1,12 +1,12 @@
 {
     "package": {
-        "downloadUrlList": [
+        "downloadUrlList_v7a": [
             "https://www.dropbox.com/scl/fi/2408otv73kr67ney93sgx/YouTubeTV_v7a.apk?rlkey=3zqd0iub4mhjeexk660ludz81&dl=1"
         ],
         "downloadUrlList_x86": [
             "https://www.dropbox.com/scl/fi/5tefszqm4mksjlc05gf5i/YouTubeTV_x86.apk?rlkey=bl4olz9qt6laobzkijn67l9lf&dl=1"
         ],
-        "downloadUrlList_arm64-v8a": [
+        "downloadUrlList_v8a": [
             "https://www.dropbox.com/scl/fi/gntn56nvkawmyju5w3ke1/YouTubeTV_v8a.apk?rlkey=s1f1d807akxldkbx8hy63pkm6&dl=1"
         ],
         "downloadUrlList_v7a-v8a": [
