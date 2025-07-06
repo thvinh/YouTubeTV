@@ -11,6 +11,12 @@
         ]
     },
 
+    "28.43": {
+        "versionCode": 2033,
+        "changelog": ["Playback error fixes", "Fixed missing context menu item Don't recommend channel"],
+        "changelog_ru": ["Исправление ошибок при воспроизведении"],
+        "changelog_uk": ["Виправлення помилок при відтворенні відео"]
+    },
     "27.99": {
         "versionCode": 1989,
         "changelog": ["403 error fixes", "Added unlocalized video titles option. Settings/UI/Misc/Unlocalized video titles"],
@@ -286,5 +292,167 @@
         "changelog": ["Player: no chapters fix", "Updated Monochrome theme to be more OLED friendly. Settings/UI/Color schemes", "Touch screen support: added vertical orientation", "Audio language selection fix", "Possible fix for the playback errors"],
         "changelog_ru": ["Плеер: исправлено отсутствие глав", "Обновлена Монохромная тема, чтобы быть более дружелюбной к OLED. Настройки/Интерфейс/Цветовые схемы", "Сенсорный экран: добавлена вертикальная ориентация.", "Исправлен выбор языка аудио", "Возможное исправление ошибок воспроизведения"],
         "changelog_uk": ["Плеєр: виправлено відсутність розділів", "Оновлена монохромна тема, щоб бути більш дружньою до OLED. Налаштування/Інтерфейс/Цвітові схеми", "Сенсорний екран: додана вертикальна орієнтація", "Виправлено вибір мови аудіо", "Можливе виправлення помилок відтворення"]
+    },
+    "19.90": {
+        "versionCode": 1180,
+        "changelog": ["Empty account fix. Need re-login.", "Volume normalizer: minimize distortions", "Possible fix for the playback errors"],
+        "changelog_ru": ["Исправление пустого аккаунта. Требуется повторный вход.", "Нормализация громкости: минимизируем искажения", "Исправление ошибок воспроизведения"],
+        "changelog_uk": ["Виправлення порожнього облікового запису. Потрібен повторний вхід.", "Нормалізатор гучності: мінімізація спотворень", "Виправлення деяких помилок відтворення"]
+    },
+    "19.81": {
+        "versionCode": 1171,
+        "changelog": ["Added Hide watched videos from Subscriptions and Home: Settings/General/Hide unwanted content", "Added Play Next context menu item: Settings/General/Context menu", "Subtitles: last used subtitle language moved to top", "Fix remote control (casting) when the app running in background (need overlay permission).", "Unplayable videos fix. Need re-login."],
+        "changelog_ru": ["добавлена опция Скрыть просмотренные видео из подписок и домашнего раздела: Настройки/Основные/Скрывать нежелательное содержимое", "добавлен пункт контекстного меню Воспроизвести следующим: Настройки/Основные/Контекстное меню", "Субтитры: последний использованный язык субтитров перемещен в начало", "Исправление удаленного управления, когда приложение работает в фоне", "Исправление видео с возрастными ограничениями. Требуется повторный вход."],
+        "changelog_uk": ["додано параметр Приховати переглянуті відео з підписок та домашньої сторінки: Налаштування/Загальні/Приховати небажаний вміст", "додано пункт контекстного меню Відтворити наступним: Налаштування/Загальні/Контекстне меню", "Субтитри: остання використана мова переміщена на початок списку", "Виправлення дистанційного керування, коли застосунок працює у фоні", "Виправлення відео з віковими обмеженнями. Потрібен повторний вхід у обліковий запис."]
+    },
+    "19.63": {
+        "versionCode": 1153,
+        "changelog": ["Important update: login fix, empty sections for logged user fix"],
+        "changelog_ru": ["Важное обновление: исправление входа в аккаунт, исправление пустых разделов у зарегистрированных пользователей"],
+        "changelog_uk": ["Важливе оновлення: виправлення входу у обліковий запис, виправлення порожнії розділів у зареєстрованих користувачів"]
+    },
+    "19.60": {
+        "versionCode": 1150,
+        "changelog": ["Fix for search history synchronization between clients"],
+        "changelog_ru": ["Исправлена синхронизация истории поиска между клиентами"],
+        "changelog_uk": ["Виправлення синхронізації історії пошуку між клієнтами"]
+    },
+    "19.59": {
+        "versionCode": 1149,
+        "changelog": ["Buffering fixes, previous release fixes and stability improvements"],
+        "changelog_ru": ["Исправления буферизации, исправления предыдущих выпусков и улучшения стабильности"],
+        "changelog_uk": ["Виправлення буферизації, виправлення попередніх випусків і покращення стабільності"]
+    },
+    "19.54": {
+        "versionCode": 1144,
+        "changelog": ["Improve touch screen and mouse support for tablets", "Added new option: Remember speed per channel. Settings/Player/Remember speed", "Fix for the remembering search history (history sync temporaly not working)", "Added experimental features: account password (Settings/Account/Use password) and use separate settings per account (Settings/General/Misc/Separate settings per account)"],
+        "changelog_ru": ["Улучшение поддержки тачскринов и мышей для планшетов", "Добавлена опция запоминания скорости для канала. Настройки/Плеер/Запоминать скорость", "Исправление запоминании истории поиска (синхронизация истории временно не работает)", "Добавлены экспериментальные функции: пароль аккаунта (Настройки/Учетная запись/Использовать пароль) и использование отдельных настроек для каждого аккаунта (Настройки/Основные/Разное/Отдельные настройки для каждого аккаунта)"],
+        "changelog_uk": ["Покращена підтримка тачскринів та мишей для планшетів", "Додана опція запам\\’ятовування швидкості для каналу. Налаштування/Плеєр/запам\\’ятовувати швидкість", "Часткове виправлення історії пошуку (синхронизація пошуку поки що не працює)", "Додано експериментальні функції: пароль облікового запису (Налаштування/Обліковий запис/Використовувати пароль) і використання окремих налаштувань для облікового запису (Налаштування/Загальні/Різне/Окремі налаштування для облікового запису)"]
+    },
+    "19.17": {
+        "versionCode": 1107,
+        "changelog": ["Auth fix"],
+        "changelog_ru": ["Исправление входа в аккаунт"],
+        "changelog_uk": ["Виправлення входу в акаунт"]
+    },
+    "19.15": {
+        "versionCode": 1105,
+        "changelog": ["New option: Settings/General/Misc/Remember last Subscriptions position (disabled by default)", "Added Notification section. This section is actually the same as on web or mobile clients. The section should be enabled in Settings/General/Setup sections.", "Player: long press on the subscribe button to enable notifications for the channel", "Numerous bug fixes for the previous release"],
+        "changelog_ru": ["Новая опция: Настройки/Общие/Разное/Запоминать последнюю позицию в Подписках (выключено по-умолчанию)", "Добавлен раздел уведомлений. Этот раздел фактически такой же, как в веб-клиентах или мобильных клиентах. Раздел должен быть включен в Настройки/Основные/Настройка разделов", "Плеер: нажмите и удерживайте кнопку подписки, чтобы включить уведомления для канала", "Исправление багов предыдущего релиза"],
+        "changelog_uk": ["Нова опція: Налаштування/Загальні/Різне/Запам\\'ятовувати останню позицію у Підписках (вимкнено за замовченням)", "Додано розділ повідомлень. Цей розділ фактично такий самий, як у веб- або мобільних клієнтах. Розділ має бути включений у Налаштування/Загальні/Налаштування розділів", "Плеєр: утримуйте кнопку підписки, щоб увімкнути сповіщення для каналу", "Виправлення багів попереднього релізу"]
+    },
+    "18.92": {
+        "versionCode": 1082,
+        "changelog": ["Added Shorts section. Disabled by default. To enable: Settings/General/Setup sections", "Context menu: added comments entry (Settings/General/Context menu)", "Added option to disable auto volume (enabled by default): Settings/Player/Misc/Auto volume adjustment"],
+        "changelog_ru": ["Добавлены раздел Shorts. Отключено по-умолчанию. Включается здесь: Настройки/Общие/Настроить разделы", "Просмотр каментарии через контекстное меню. Настройки/Общие/Контекстное меню", "Опция для отключению авто-громкости: Настройки/Плеер/Разное/Автоматическое управление громкостью"],
+        "changelog_uk": ["Додана розділ Shorts. Відключено за замовчуванням. Увімкнути тут: Налаштування/Загальні/Налаштувати розділи", "Дивитися каментарі за допомогою контекстного меню. Налаштування/Загальні/Контекстне меню", "Опція вимкнення авто-гучності: Налаштування/Плеєр/Різне/Автоматичне керування гучністю"]
+    },
+    "18.50": {
+        "versionCode": 1040,
+        "changelog": ["Option to reorder context menu items. Select position dialog will popup after enabling any menu item in Settings/General/Context menu", "Navigation between buttons inside the player has been changed to be more intuitive", "Player: the ability to select a dim amount when turning the screen off (for setup, long press on the Screen off player button)", "Automatic volume adjustment to keep the loudness of all videos on the same level (cannot be disabled now)."],
+        "changelog_ru": ["Возможность изменить порядок пунктов контекстного меню. Диалоговое окно выбора позиции появится после включения любого элемента меню в меню Настройки»/Общие/Контекстное меню", "Плеер: возможность выбора степени затемнения при выключении экрана (для настройки, долгое нажатие на кнопку выключения экрана плеера)", "Автоматическая регулировка громкости, чтобы поддерживать громкость всех видео на одном уровне (сейчас нельзя отключить)."],
+        "changelog_uk": ["Можливість змінити порядок пунктів контекстного меню. Діалогове вікно вибору позиції з’явиться після ввімкнення будь-якого пункту меню в меню Параметри/Загальні/Контекстне меню", "Плеєр: можливість вибору затемнення при вимкненні екрана (для налаштування, тривале натискання на кнопку плеєра вимкнення екрану)", "Автоматичне регулювання гучності, щоб підтримувати гучність усіх відео на одному рівні (зараз не можна вимкнути)."]
+    },
+    "18.28": {
+        "versionCode": 1018,
+        "changelog": ["A possible fix for the buffering issue"],
+        "changelog_ru": ["Возможное исправление проблемы с буферизацией"],
+        "changelog_uk": ["Можливе виправлення проблеми з буферизацією"]
+    },
+    "18.27": {
+        "versionCode": 1017,
+        "changelog": ["The possible fix for the video source error", "The player network stack option is extracted to the separate menu: Settings/Player/Network stack. This option could potentially fix the infamous 'source error'."],
+        "changelog_ru": ["Возможное исправление ошибки источника видео", "Опция сетевого стека плеера вынесена в отдельное меню: Настройки/Плеер/Сетевой стек. Эта опция потенциально может исправить печально известную 'ошибку источника'."],
+        "changelog_uk": ["Можливе виправлення помилки джерела відео не працює", "Опція мережевого стека плеєра витягнута в окреме меню: Налаштування/Плеєр/Мережевий стек. Ця опція може потенційно виправити сумнозвісну 'помилку джерела'."]
+    },
+    "18.23": {
+        "versionCode": 1013,
+        "changelog": ["The fix for the video source error"],
+        "changelog_ru": ["Исправление ошибки источника видео"],
+        "changelog_uk": ["Виправлення помилки джерела відео не працює"]
+    },
+    "18.15": {
+        "versionCode": 1005,
+        "changelog": ["New option: Settings/Subtitles/Remember enabled subtitles per each channel (disabled be default)", "New option: Settings/Player/Misc/Show notification to quickly advance through the chapters (disabled by default)", "Added 'exclude channel from SponsorBlock' context menu item (disabled by default, to enable Settings/General/Context menu)"],
+        "changelog_ru": ["Новая опция: Настройки/Субтитры/Запомнить включенные субтитры для каждого канала (выключена по-умолчанию)", "Новая опция: Настройки/Плеер/Разное/Показывать уведомление для быстрого перехода по эпизодам (выключена по-умолчанию)", "Добавлен пункт контекстного меню 'исключить канал из SponsorBlock' (по умолчанию отключен, чтобы включить Настройки/Общие/Контекстное меню)"],
+        "changelog_uk": ["Нова опція: Налаштування/Субтитри/Запам'ятати ввімкнені субтитри для кожного каналу (вимкнена за замовчуванням)", "Нова опція: Налаштування/Плеєр/Різне/Показувати сповіщення для швидкого переходу між епізодами (вимкнена за замовчуванням)", "Додано пункт контекстного меню 'виключити канал із SponsorBlock' (вимкнено за замовчуванням, щоб увімкнути 'Параметри/Загальні/Контекстне меню')"]
+    },
+    "17.95": {
+        "versionCode": 985,
+        "changelog": ["Player: added new button Screen off timeout. Helpful when you are most of the time listening to podcasts etc. Short press to enable it, long press to set up timeout.", "New context menu item: Mark the video as watched. Disabled by default. To enable: Settings/General/Set-up context menu", "New option: Settings/About/Enable old update notifications", "New option: Settings/Player/Misc/Enable UI animations", "New options: Settings/Player/Misc/Show like/dislike count"],
+        "changelog_ru": ["Плеер: добавлена новая кнопка Тайм-аут выключения экрана. Полезно, когда вы большую часть времени слушаете подкасты. Коротко нажмите, чтобы включить его, удержание, чтобы установить тайм-аут.",  "Новый пункт контекстного меню: пометить видео как просмотренное. Отключено по умолчанию. Для включения: Настройки/Общие/Настройка контекстного меню", "Новая опция: Настройки/О программе/Включить старые уведомления об обновлениях.", "Новая опция: Настройки/Игрок/Разное/Включить анимацию пользовательского интерфейса.", "Новые опции: Настройки/Игрок/Разное/Показать количество лайков/дизлайков"],
+        "changelog_uk": ["Плеєр: додано нову кнопку Тайм-аут вимкнення екрана. Корисно, коли ви більшу частину часу слухаєте подкасти. Коротке натискання - увімкнути функцію, довге - змінити тайм-аут.", "Новий пункт контекстного меню: позначити відео як переглянуте. Вимкнено за замовчуванням. Щоб увімкнути: Налаштування/Загальні/Налаштування контекстного меню", "Нова опція: Налаштування/Про застосунок/Увімкнути старі сповіщення про оновлення", "Нова опція: Налаштування/Плеєр/Різне/Увімкнути анімацію інтерфейсу", "Нові параметри: Налаштування/Плеєр/Різне/Показати кількість лайків/дізлайків"]
+    },
+    "17.88": {
+        "versionCode": 978,
+        "changelog": ["Added Trending section (should be explicitly enabled via Settings/General/Set-up sections", "New option: Settings/Player/Misc/Use current section contents as a playlist", "Previous release bug fixes", "Player: added like/dislike count", "Channel section: improved channels list loading speed, fixed position marks bug, added new bugs, etc.", "Player suggestions: added an extra row with current section content (e.g. when you open a video in the Subscriptions section you'll see extra subscriptions row)", "Added Kids section (enable via Settings/General/Set-up sections)", "Added new context menu item: Play incognito (play videos without history trace til you close the player)", "Added an ability to increase the audio volume above 100%. Settings/Player/Volume limit (0-300%)"],
+        "changelog_ru": ["Добавлен раздел В тренде. Включается здесь: Настройки/Общие/Настроить разделы", "Новая опция: Настройки/Плеер/Разное/Использовать содержимое текущего раздела в качестве плейлиста", "Исправление багов предыдущего релиза", "Плеер: добавлен счетчик лайков/дизлайков", "Раздел Каналы: улучшена скорость загрузки списка каналов, исправлена ошибка с метками позиций и т.д.", "Рекомендации в плеере: добавлена дополнительная строка с содержимым текущего раздела (например, когда если открыть видео в разделе Подписки, то появится дополнительная строка подписок)", "Добавлен раздел Детям (включить через Настройки/Общие/Настроить разделы)", "Добавлен новый пункт контекстного меню: Воспроизводить анонимно (воспроизведение видео без отслеживания истории, пока вы не закроете проигрыватель)", "Добавлена возможность увеличить громкость звука выше 100%. Настройки/Проигрыватель/Ограничение громкости (0-300%)"],
+        "changelog_uk": ["Додано розділ Популярне. Вмикається тут: Налаштування/Загальні/Налаштувати розділи", "Нова опція: Налаштування/Плеєр/Різне/Використовувати вміст поточного розділу як список відтворення", "Виправлення багів попереднього релізу", "Плеєр: додано кількість лайків/діслайків", "Розділ Канали: покращена швидкість завантаження списку каналів, виправлена помилка позначок позиції тощо.", "Рекомендації в плеєрі: додано додатковий рядок із вмістом поточного розділу (наприклад, коли ви відкриваєте відео в розділі Підписки, то побачите додатковий рядок із підписками)", "Додано розділ Дітям (увімкнути через Налаштування/Загальні/Налаштувати розділи).", "Додано новий пункт контекстного меню: Відтворювати анонімно (відтворювати відео без відстеження історії, доки ви не закриєте плеєр)", "Додана можливість збільшити гучність звуку понад 100%. Налаштування/Плеєр/Обмеження гучності (0-300%)"]
+    },
+    "17.62": {
+        "versionCode": 952,
+        "changelog": ["Player: fixed situations when playback mode is getting reset after every app restart"],
+        "changelog_ru": ["Плеер: исправлены ситуации, когда режим воспроизведения сбрасывался после каждого перезапуска приложения."],
+        "changelog_uk": ["Плеєр: виправлено ситуації, коли режим відтворення скидався після кожного перезапуску застосунку."]
+    },
+    "17.61": {
+        "versionCode": 951,
+        "changelog": ["New context menu item: Do not recommend channel", "Added master password: Settings/General/Misc/Master password", "Empty subscriptions fix", "Previous release fixes."],
+        "changelog_ru": ["В контекстное меню добавлено Не рекомендовать канал", "Добавлен мастер-пароль: Настройки/Основные/Разное/Мастер-пароль", "Исправление пустых подписок", "Исправление багов предыдущего релиза."],
+        "changelog_uk": ["У контекстне меню додано Більше не радити канал", "Додана опція головного пароля: Налаштування/Загальні/Різне/Головний пароль", "Виправлення порожніх підписок", "Виправлення багів попереднього релізу."]
+    },
+    "17.39": {
+        "versionCode": 929,
+        "changelog": ["Another attempt to fix various playback problems like buffering/stuttering (especially on streams)", "Added an option to unlock all video formats (Settings/Player/Dev. options/Unlock all formats", "Fix for socks proxy with the password", "Possible improvement of stability and performance of the streams"],
+        "changelog_ru": ["Еще одна попытка исправить различные проблемы с воспроизведением, такие как буферизация/заикание (особенно на стримах).", "Добавлена возможность разблокировать все видео форматы (Настройки/Плеер/Для разработчиков/Разблокировать все форматы", "Исправление для socks прокси с паролем", "Возможное улучшение стабильности и производительности стримов"],
+        "changelog_uk": ["Ще одна спроба вирішити різні проблеми з відтворенням, такі як буферизація/заїдання (особливо на стримах)", "Додана можливість розблокувати всі відеоформати (Налаштування/Плеєр/Для розробників/Розблокувати всі формати", "Виправлення для socks proxy з паролем", "Можливе підвищення стабільності та продуктивності стрімів"]
+    },
+    "17.26": {
+        "versionCode": 916,
+        "changelog": ["Buffering issue fix"],
+        "changelog_ru": ["Исправление проблемы с буферизацией"],
+        "changelog_uk": ["Виправлено проблему буферизації"]
+    },
+    "17.20": {
+        "versionCode": 910,
+        "changelog": ["Added more search filters: Search by length, type (video, channel, playlist), and features (Live, 4K, HDR)", "Hide video from Subscriptions (long press on video > Hide)", "Clear all search suggestions (long press on any suggestion to clear them all)", "Account button behavior changed: short click to quickly switch accounts, long click to show Accounts dialog", "Player: Added quick rotation button (to disable Settings/Player/Buttons)", "Player: Added custom zoom between 100-300% to the Video Zoom dialog"],
+        "changelog_ru": ["Добавлено больше поисковых фильтров: поиск по продолжительности, типу (видео, канал, плейлист) и особенностям (Live, 4K, HDR)", "Скрыть видео из подписок (долгое нажатие на видео > Скрыть)", "Очистить все предложения поиска (нажмите и удерживайте любое предложение, чтобы очистить их все)", "Изменено поведение кнопки переключения учетной записи: короткий щелчок для быстрого переключения учетных записей, длинный щелчок для отображения диалогового окна учетных записей", "Плеер: добавлена кнопка быстрого поворота (отключить настройки/плеер/кнопоки)", "Плеер: Добавлена возможность выбрать масштаб от 100 до 300% (диалоговое окно Масштаб видео)"],
+        "changelog_uk": ["Додано більше фільтрів пошуку: пошук за тривалістю, типом (відео, канал, плейлист) і характеристиками (Live, 4K, HDR)", "Приховати відео з підписок (довге натискання на відео > Сховати)", "Очистити всі пропозиції пошуку (утримуйте будь-яку пропозицію, щоб видалити їх усі)", "Змінено поведінку кнопки перемикання облікових записів: коротке натискання для швидкого перемикання облікових записів, довге для відображення діалогового вікна", "Плеєр: додано кнопку швидкого обертання (вимкнути тут Налаштування/Плеєр/Кнопки)", "Плеєр: Додано можливість вибрати масштаб від 100 до 300% (діалогове вікно Масштаб відео)"]
+    },
+    "16.93": {
+        "versionCode": 883,
+        "changelog": ["No history fix", "Added option to turn off the screen after a specific amount of time (same as dimming but makes screen entirely black): Settings/General/Turn off screen", "SponsorBlock: skip segment dialog has been replaced with a single button at the top right screen corner", "Added option to rotate a video (located inside the Aspect Ratio player dialog)", "Subtitles dialog: added a standalone section for auto-gen subs"],
+        "changelog_ru": ["Исправление истории", "Добавлена возможность выключения экрана через определенное время (аналогично затемнению, но делает экран полностью черным): Настройки/Основные/Выключить экран", "SponsorBlock: диалоговое окно пропуска сегмента заменено одной кнопкой в правом верхнем углу экрана", "Добавлена возможность поворота видео (находится в диалоговом окне проигрывателя Соотношение сторон)", "Диалог субтитров: добавлен отдельный раздел для автоматически созданых субтитров"],
+        "changelog_uk": ["Виправлення історії переглядів", "Додано можливість вимкнути екран через певний проміжок часу (те саме, що й затемнення, але робить екран повністю чорним): Налаштування/Загальні/Вимкнути екран", "SponsorBlock: діалогове вікно пропуску сегмента було замінено кнопкою у верхньому правому куті екрана", "Додана опція для обертання відео (розташована у діалоговому вікні плеєру Співвідношення сторін)", "Діалогове вікно субтитрів: додано окремий розділ для автоматично створених субтитрів"]
+    },
+    "16.70": {
+        "versionCode": 860,
+        "changelog": ["Player: added video comments", "Fixed cases when watch history is not working", "Player: fixed audio track selection on multilanguage videos", "PIP: fixed bug when the next video starts in the fullscreen"],
+        "changelog_ru": ["Плеер: добавлены комментарии", "Исправлены случаи, когда история просмотров не работает", "Плеер: исправлен выбор звуковой дорожки на мультиязычных видео", "PIP: исправлена ошибка, когда следующее видео запускалось в полноэкранном режиме"],
+        "changelog_uk": ["Плеєр: додані коментарі", "Виправлені випадків непрацюючої історії переглядів", "Плеєр: виправлено вибір звукової доріжки на багатомовних відео", "PIP: виправлена помилка, коли наступне відео починається в повноекранному режимі"]
+    },
+    "16.58": {
+        "versionCode": 848,
+        "changelog": ["Added the ability to protect the settings with a password. Settings/General/Misc/Protect with a password. Now you can easily create something like parental control (thanks to numerous app settings).", "Added Child mode (set of settings that make the app safe for childeren). Settings/General/Misc/Child mode.", "Player: added chapters for the videos", "Current bug fixes"],
+        "changelog_ru": ["Добавлена возможность защиты настроек паролем. Настройки/Основные/Разное/Защитить паролем. Теперь вы можете легко создать что-то вроде родительского контроля (благодаря многочисленным настройкам приложения).", "Добавлен Детский режим (набор настроек, которые делают приложения безопасным для детей). Настройки/Основные/Разное/Детский режим.", "Плеер: добавлены главы для видео", "Текущие исправления ошибок"],
+        "changelog_uk": ["Додана можливість захисту налаштувань паролем. Налаштування/Загальні/Різне/Захистити паролем. Тепер ви можете легко створити щось на зразок батьківського контролю (завдяки численним налаштуванням застосунку).", "Додано Дитячий режим (набір налаштувань, якій робить додаток безпечним для дітей). Налаштування/Загальні/Різне/Дитячий режим.", "Плеєр: додано розділи для відео", "Поточні виправлення помилок"]
+    },
+    "16.37": {
+        "versionCode": 827,
+        "changelog": ["Live streaming: added up to 24 hours of replay!", "Added an option to replace clickbait thumbnails on cards with real ones. Settings/User interface/Where to grab card thumbnails", "Added auto-translated subtitles. Auto-translated subtitles are located alongside regular ones.", "Player: altered behavior for Speed, Chat, and Captions buttons. Short-click toggles feature on/off. Long-click shows the settings dialog."],
+        "changelog_ru": ["Прямая трансляция: добавлен повтор до 24 часов!", "Добавлена ​​возможность замены кликбейтных миниатюр карточек на настоящие. Настройки/Пользовательский интерфейс/Откуда брать миниатюры карточек", "Добавлен автоперевод субтитров. Новые субтитры находятся рядом с обычными субтитрами.", "Плеер: изменено поведение кнопок Скорость, Чат и Субтитры. Короткий щелчок включает/выключает функцию. Длинный щелчок показывает диалоговое окно настроек."],
+        "changelog_uk": ["Прямі трансляції: додано повтор до 24 годин!", "Додана можливість замінити клікбейтні мініатюри карток на справжні. Налаштування/Інтерфейс користувача/Звідки брати мініатюри карток", "Додано субтитри з автоматичним перекладом. Знаходяться поряд з звичайними субтитрами.", "Плеер: змінена поведінка кнопок Швидкість, Чат та Субтитри. Коротке натискання вмикає/вимикає функцію. Тривале натискання відкриває діалогове вікно налаштувань."]
+    },
+    "16.04": {
+        "versionCode": 794,
+        "changelog": ["Fixed cases when watch history is not working"],
+        "changelog_ru": ["Исправлены случаи, когда история просмотров не работает"],
+        "changelog_uk": ["Виправлені випадки, коли історія переглядів не працює"]
+    },
+    "15.81": {
+        "versionCode": 771,
+        "changelog": ["Contains cumulative changes from the beta with same version number. All bugs transferred too)", "Updates released less frequently than in the beta", "All metrics (like crashlytics in the beta) has been removed", "App name has been shortened (SmartTube) and icon changed to red one", "Pure chinese firmware support (where the beta can't be installed)"],
+        "changelog_ru": ["Содержит накопленные изменения из беты с тем же номером версии. Все баги также перенесены)", "Обновляется гораздо реже, чем бета", "Все метрики (напр. в бете есть crashlytics) удалены", "Название приложения было сокращено (SmartTube), а иконка изменена на красную", "Поддержка чисто китайских прошивок (где бету поставить не получится)"],
+        "changelog_uk": ["Містить накопичені зміни з бети з тим же номером версії. Усі баги з бети також присутні)", "Оновлюється значно рідше, ніж бета", "Видалені усі системи стеження (напр. crashlytics у беті)", "Назва застосунку була скорочена (SmartTube), а іконка змінена на червону", "Підтримка суто китайських прошивок (де бету встановити неможливо)"]
     }
 }
