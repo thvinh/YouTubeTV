@@ -14,6 +14,12 @@
         ]
     },
 
+    "28.58": {
+        "versionCode": 2048,
+        "changelog": ["Auto volume improvements", "Playback error fixes", "Fix missing menu item: Don't recommend the channel"],
+        "changelog_ru": ["Улучшения автоматической регулировки громкости", "Исправления ошибок воспроизведения", "Исправлен отсутствующий пункт меню: Не рекомендовать канал"],
+        "changelog_uk": ["Покращення автоматичної гучності", "Виправлення помилок відтворення", "Виправлено відсутній пункт меню: Не рекомендувати канал"]
+    },
     "28.43": {
         "versionCode": 2033,
         "changelog": ["Playback error fixes", "Fixed missing context menu item Don't recommend channel"],
