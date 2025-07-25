@@ -14,6 +14,24 @@
         ]
     },
 
+    "28.78": {
+        "versionCode": 2068,
+        "changelog": ["Fixed the regression when the Remove Shorts option has no effect"],
+        "changelog_ru": ["Исправлена регрессия, когда опция Удалить Shorts не работала"],
+        "changelog_uk": ["Виправлено регресію, коли опція Видалити Shorts не працює"]
+    },
+    "28.75": {
+        "versionCode": 2065,
+        "changelog": ["Fixed partially empty Subscriptions section", "Fixed missing Shorts in Subscriptions and Channels sections"],
+        "changelog_ru": ["Исправлен частично пустой раздел Подписки", "Исправлено отсутствие Shorts в разделах Подписки и Каналы"],
+        "changelog_uk": ["Виправлено частково порожній розділ Підписки", "Виправлено відсутність Shorts у розділах Підписки та Канали"]
+    },
+    "28.66": {
+        "versionCode": 2056,
+        "changelog": ["403 error fixes", "Player: small usability improvements"],
+        "changelog_ru": ["Исправления ошибки 403"],
+        "changelog_uk": ["Виправлення помилки 403"]
+    },
     "28.58": {
         "versionCode": 2048,
         "changelog": ["Auto volume improvements", "Playback error fixes", "Fix missing menu item: Don't recommend the channel"],
