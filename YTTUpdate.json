@@ -14,6 +14,18 @@
         ]
     },
 
+    "29.37": {
+        "versionCode": 2127,
+        "changelog": ["The fix for empty Subscriptions and outdated Channels", "The fix is when shorts are still shown despite the settings", "Previous release fixes"],
+        "changelog_ru": ["Исправление пустого раздела Подписки и устаревших видео на Каналах", "Исправление багов предыдущего релиза"],
+        "changelog_uk": ["Виправлення порожнього розділу Підписки та застарілих відео у розділу Канали", "Виправлення багів попереднього релізу"]
+    },
+    "29.13": {
+        "versionCode": 2103,
+        "changelog": ["Fix for unplayable videos (sign-in error)", "Fix for partially empty Home section", "Fix for History not syncing", "Auto-translated subtitles fix", "Hide Shorts fix", "Added new option: Settings/Player/Misc/Don't resize video to fit dialog"],
+        "changelog_ru": ["Исправлена проблема с невоспроизводимыми видео (ошибка входа)", "Исправлена проблема с частично пустым Домашним разделом", "Исправлена проблема с синхронизацией истории", "Исправлен автоматический перевод субтитров", "Исправлена ошибка со скрытием коротких видео", "Добавлена опция: Настройки/Плеер/Разное/Не изменять размер видео в соответствии с диалогом"],
+        "changelog_uk": ["Виправлення невідтворюваних відео (помилка входу)", "Виправлення частково порожнього розділу Головна", "Виправлення несинхронізованої історії", "Виправлення автоматично перекладених субтитрів", "Виправлення приховування коротких відео", "Додана опція: Налаштування/Плеєр/Різне/Не змінювати розмір відео відповідно до розміру діалогу"]
+    },
     "28.78": {
         "versionCode": 2068,
         "changelog": ["Fixed the regression when the Remove Shorts option has no effect"],
