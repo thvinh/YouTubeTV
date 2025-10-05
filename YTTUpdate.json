@@ -14,6 +14,18 @@
         ]
     },
 
+    "29.63": {
+        "versionCode": 2153,
+        "changelog": ["Improve the first video start-up time"],
+        "changelog_ru": ["Улучшение время запуска видео"],
+        "changelog_uk": ["Покращення часу запуску відео"]
+    },
+    "29.62": {
+        "versionCode": 2152,
+        "changelog": ["Temporary workaround for the playback errors"],
+        "changelog_ru": ["Временное решение для ошибок воспроизведения"],
+        "changelog_uk": ["Тимчасове вирішення помилок відтворення"]
+    },
     "29.37": {
         "versionCode": 2127,
         "changelog": ["The fix for empty Subscriptions and outdated Channels", "The fix is when shorts are still shown despite the settings", "Previous release fixes"],
