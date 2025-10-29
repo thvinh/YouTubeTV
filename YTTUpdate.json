@@ -13,7 +13,13 @@
             "https://www.dropbox.com/scl/fi/2408otv73kr67ney93sgx/YouTubeTV_v7a.apk?rlkey=3zqd0iub4mhjeexk660ludz81&dl=1"
         ]
     },
-
+    
+    "29.83": {
+        "versionCode": 2173,
+        "changelog": ["Recommendations inside Home and the player updated to match the original app", "The fix for the different playback errors"],
+        "changelog_ru": ["Рекомендации на главном экране и в плеере обновлены в соответствии с оригинальным приложением", "Исправлены различные ошибки воспроизведения"],
+        "changelog_uk": ["Рекомендації на головній сторінці та в плеєрі оновлено відповідно до оригінального застосунку", "Виправлення різних помилок відтворення"]
+    },
     "29.63": {
         "versionCode": 2153,
         "changelog": ["Improve the first video start-up time"],
