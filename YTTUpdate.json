@@ -13,7 +13,67 @@
             "https://www.dropbox.com/scl/fi/2408otv73kr67ney93sgx/YouTubeTV_v7a.apk?rlkey=3zqd0iub4mhjeexk660ludz81&dl=1"
         ]
     },
-    
+
+    "30.68": {
+        "versionCode": 2258,
+        "changelog": ["The new option for local backups: Settings/Backup&Restore/Local backup/Auto backup (once a day/week/month)", "The new option for GDrive backups: Settings/Backup&Restore/GDrive backup/Auto backup (once a day/week/month)", "All backup from the previous apps is now interchangeable and shown in the dialogue selector", "Fixed common bugs when restoring from GDrive (e.g., search history not restored)", "Fixed when the like button is not active", "Fixed Watch Later disappearance from Playlists"],
+        "changelog_ru": ["Добавлена новая опция для локальных резервных копий: Настройки → Резервное копирование и восстановление → Локальная копия → Автобэкап (раз в день / неделю / месяц)", "Добавлена новая опция для резервных копий в Google Drive: Настройки → Резервное копирование и восстановление → Google Drive → Автобэкап (раз в день / неделю / месяц)", "Все резервные копии из предыдущих версий приложения теперь совместимы и отображаются в диалоге выбора", "Исправлены распространённые ошибки при восстановлении из Google Drive (например, не восстанавливалась история поиска)", "Исправлена проблема, из-за которой кнопка «Нравится» была неактивна", "Исправлено исчезновение плейлиста «Смотреть позже»"],
+        "changelog_uk": ["Додано нову опцію для локальних резервних копій: Налаштування → Резервне копіювання та відновлення → Локальна копія → Автобекап (раз на день / тиждень / місяць)", "Додано нову опцію для резервних копій у Google Drive: Налаштування → Резервне копіювання та відновлення → Google Drive → Автобекап (раз на день / тиждень / місяць)", "Усі резервні копії з попередніх версій застосунку тепер сумісні та відображаються в діалозі вибору", "Виправлено поширені помилки під час відновлення з Google Drive (наприклад, не відновлювалася історія пошуку)", "Виправлено проблему, через яку кнопка «Подобається» була неактивною", "Виправлено зникнення плейлиста «Переглянути пізніше»"]
+    },
+    "30.64": {
+        "versionCode": 2254,
+        "changelog": ["fixed 'Code loading...'' bug when trying to pair with a phone", "fixed the card's title scrolling speed", "fixed popup notifications", "backup/restore behavior is restored (no need to mess with archives)"],
+        "changelog_ru": ["исправлена ​​ошибка 'Код загружается...' при попытке сопряжения с телефоном", "исправлена ​​скорость прокрутки названий карточек", "исправлены всплывающие уведомления", "восстановлено поведение ​​функции резервного копирования (не нужно возиться с архивами)", "К сожалению, эти изменения требуют включения режима совместимости (как было раньше). Вы увидите предупреждение во время обновления. Это временная мера, пока мы исправляем все эти ошибки."],
+        "changelog_uk": ["виправлена ​​помилка 'Код завантажується...'' при спробі поєднання телефону", "виправлена ​​швидкість прокручування назв карток", "виправлені спливаючі повідомлення", "відновлено поведінку функції резервного копіювання (не потрібно возитися з архівами)", "На жаль, ці зміни вимагають увімкнення режиму сумісності (як було раніше). Ви побачите попередження під час оновлення. Це тимчасовий захід, поки ми виправляємо всі ці помилки."]
+    },
+    "30.59": {
+        "versionCode": 2249,
+        "changelog": ["fixed local restore feature on Android 11+ (need to create an archive from <sdcard>/data folder and send it to SmartTube)", "fixed restore of old backup from Google Drive", "fixed the absence of Android TV/Google TV channels", "misc fixes"],
+        "changelog_ru": ["исправлена ​​функция локального восстановления на Android 11+ (необходимо создать архив из папки <sdcard>/data и отправить его в SmartTube)", "исправлено восстановление старой резервной копии с Google Диска", "исправлено отсутствие каналов Android TV/Google TV", "различные исправления"],
+        "changelog_uk": ["виправлено функцію локального відновлення на Android 11+ (потрібно було створити архів з папки <sdcard>/data та надіслати його на SmartTube)", "виправлено відновлення старої резервної копії з Google Диска", "виправлено відсутність каналів Android TV/Google TV", "різні виправлення"]
+    },
+    "30.56": {
+        "versionCode": 2246,
+        "changelog": ["The first update after the long period of time"],
+        "changelog_ru": ["The first update after the long period of time"],
+        "changelog_uk": ["The first update after the long period of time"]
+    },
+    "30.48": {
+        "versionCode": 2238,
+        "changelog": ["Fix for improper set Auto volume", "Previous release fixes"],
+        "changelog_ru": ["Исправлена ​​ошибка неправильной настройки автогромкости", "Исправление багов предыдущего релиза"],
+        "changelog_uk": ["Виправлення неправильно встановленої автоматичної гучності", "Виправлення багів попереднього релізу"]
+    },
+    "30.47": {
+        "versionCode": 2237,
+        "changelog": ["Added new context menu option: Settings/General/Context menu/Play from start", "Stability fixes"],
+        "changelog_ru": ["Добавлен новый пункт контекстного меню: Настройки/Основные/Контекстное меню/Воспроизвести с начала", "Улучшена стабильность"],
+        "changelog_uk": ["Додано новий пункт контекстного меню: Налаштування/Загальні/Контекстне меню/Відтворити з початку", "Поліпшена стабільність роботи застосунку"]
+    },
+    "30.43": {
+        "versionCode": 2233,
+        "changelog": ["Various playback error fixes", "Stability fixes"],
+        "changelog_ru": ["Исправлены различные ошибки воспроизведения", "Улучшена стабильность"],
+        "changelog_uk": ["Виправлення різноманітних помилок відтворення", "Поліпшена стабільність роботи застосунку"]
+    },
+    "30.19": {
+        "versionCode": 2209,
+        "changelog": ["Subscriptions: items wrong order fix"],
+        "changelog_ru": ["Подписки: исправление неправильного порядка"],
+        "changelog_uk": ["Підписки: виправлення невірного порядку"]
+    },
+    "30.16": {
+        "versionCode": 2206,
+        "changelog": ["Playback: fixed some playback errors", "History: fixed issues when some videos were not marked as fully watched", "Google Drive: fixed issues with the cloud backup"],
+        "changelog_ru": ["Воспроизведение: исправлены некоторые ошибки воспроизведения", "История: исправлены проблемы, из-за которых некоторые видео не отмечались как полностью просмотренные"],
+        "changelog_uk": ["Відтворення: виправлено деякі помилки при відтворенні", "Історія: виправлено проблеми, коли деякі відео не позначалися як повністю переглянуті"]
+    },
+    "30.14": {
+        "versionCode": 2204,
+        "changelog": ["Previous release fixes"],
+        "changelog_ru": ["Previous release fixes"],
+        "changelog_uk": ["Previous release fixes"]
+    },
     "29.83": {
         "versionCode": 2173,
         "changelog": ["Recommendations inside Home and the player updated to match the original app", "The fix for the different playback errors"],
