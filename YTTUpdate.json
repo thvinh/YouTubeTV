@@ -14,6 +14,36 @@
         ]
     },
 
+    "31.08": {
+        "versionCode": 2298,
+        "changelog": ["SponsorBlock: added the option to ignore short segments (default to 5 sec) Settings/SponsorBlock", "Unplayable videos fix, history syncing fix"],
+        "changelog_ru": ["SponsorBlock: добавлена ​​опция игнорирования коротких сегментов (по умолчанию 5 секунд) Настройки/SponsorBlock", "Исправление неработающих видео"],
+        "changelog_uk": ["SponsorBlock: додано опцію ігнорування коротких сегментів (за замовчуванням 5 сек) Налаштування/SponsorBlock", "Виправлення непрацюючих відео"]
+    },
+    "30.98": {
+        "versionCode": 2288,
+        "changelog": ["Player: Added experimental touch feature: double-tap to seek (enabled by default)", "Added back gesture (slide from the side edge) for touch interfaces. Useful for a car's ui where the back button is not present.", "Fixed subscriptions order", "Misc bugfixes"],
+        "changelog_ru": ["Добавлена ​​экспериментальная функция сенсорного управления: двойное касание для перемотки (включено по умолчанию)", "Добавлен жест назад (проведение пальцем от бокового края) для сенсорных интерфейсов. Полезно для интерфейса автомобиля, где отсутствует кнопка Назад.", "Исправлен порядок подписок", "Мелкие исправления"],
+        "changelog_uk": ["Додано експериментальну функцію сенсорного керування: подвійний тап для перемотування (увімкнено за замовчуванням)", "Додано жест Назад (проведення пальцем від бокового краю) для сенсорних інтерфейсів. Корисно для інтерфейсу автомобіля, де немає кнопки Назад", "Виправлено порядок підписок", "Невеликі виправлення"]
+    },
+    "30.90": {
+        "versionCode": 2280,
+        "changelog": ["Subscriptions order fix", "New feature: Block channels. Activate: Settings/General/Context menu/Block channel", "Added new key remapping: fast forward -> toggle speed, S key -> toggle speed", "Added the ability to decrease CPU load during 'Increased playback speed' (by ragavpr). Uncheck this Settings/Player/Misc/Audio stretching. The price of this is very ugly voices.", "Fixed search on a channel and fixed sorting channel videos by latest, popularity, etc"],
+        "changelog_ru": ["Исправлен порядок подписок", "Новая функция: Блокировка каналов. Активация: Настройки/Общие/Контекстное меню/Блокировка канала (автор asphalt123)", "Добавлено новое назначение клавиш: fast forward -> toggle speed, S key -> toggle speed", "Добавлена ​​возможность снизить нагрузку на процессор при 'Увеличенной скорости воспроизведения'. Снимите этот флажок в настройках/плеере/разное/растягивание звука. Цена за это — очень неприятный голос.", "Исправлен поиск по каналу и исправлена ​​сортировка видео канала по дате выхода, популярности и т. д."],
+        "changelog_uk": ["Виправлення порядку підписок", "Нова функція: Блокування каналів. Активація: Налаштування/Загальні/Контекстне меню/Блокування каналу (від asphalt123)", "Додано нове перепризначення клавіш: fast forward -> toggle speed, S key -> toggle speed", "Додано можливість зменшення навантаження на процесор під час 'Збільшення швидкості відтворення'. Зніміть цю відмітку у Налаштуваннях/Плеєр/Різне/Розтягування аудіо. Ціною цього є дуже негарні голоси.", "Виправлено пошук на каналі та виправлено сортування відео каналу за новими, популярністю тощо."]
+    },
+    "30.82": {
+        "versionCode": 2272,
+        "changelog": ["Audio track (DRC) selection fix", "The playback position is not remembered fix", "Playback error fixes"],
+        "changelog_ru": ["Исправлена ​​ошибка выбора аудиодорожки (DRC)", "Исправлена ​​ошибка, из-за которой не запоминалась позиция воспроизведения", "Исправлены ошибки воспроизведения"],
+        "changelog_uk": ["Виправлення вибору аудіодоріжки (DRC)", "Виправлення проблеми з запам'ятовуванням позиції відтворення", "Виправлення помилок відтворення"]
+    },
+    "30.75": {
+        "versionCode": 2265,
+        "changelog": ["Added new option: General/Key mapping/Skip shorts with up/down keys", "Added new option: General/Key mapping/Skip regular videos with up/down keys", "Added new option: General/Key mapping/Toggle speed on/off with the OK button", "Previous release bug fixes"],
+        "changelog_ru": ["Добавлена ​​новая опция: Общие/Переопределение клавиш/Пропуск shorts с помощью клавиш вверх/вниз", "Добавлена ​​новая опция: Общие/Переопределение клавиш/Включение скорости кнопкой ОК"],
+        "changelog_uk": ["Додано нову опцію: Загальні/Перевизначення клавіш/Пропуск shorts за допомогою клавіш вгору/вниз", "Додано нову опцію: Загальні/Перевизначення клавіш/Увімкнення швидкості кнопкою ОК"]
+    },
     "30.68": {
         "versionCode": 2258,
         "changelog": ["The new option for local backups: Settings/Backup&Restore/Local backup/Auto backup (once a day/week/month)", "The new option for GDrive backups: Settings/Backup&Restore/GDrive backup/Auto backup (once a day/week/month)", "All backup from the previous apps is now interchangeable and shown in the dialogue selector", "Fixed common bugs when restoring from GDrive (e.g., search history not restored)", "Fixed when the like button is not active", "Fixed Watch Later disappearance from Playlists"],
@@ -67,12 +97,6 @@
         "changelog": ["Playback: fixed some playback errors", "History: fixed issues when some videos were not marked as fully watched", "Google Drive: fixed issues with the cloud backup"],
         "changelog_ru": ["Воспроизведение: исправлены некоторые ошибки воспроизведения", "История: исправлены проблемы, из-за которых некоторые видео не отмечались как полностью просмотренные"],
         "changelog_uk": ["Відтворення: виправлено деякі помилки при відтворенні", "Історія: виправлено проблеми, коли деякі відео не позначалися як повністю переглянуті"]
-    },
-    "30.14": {
-        "versionCode": 2204,
-        "changelog": ["Previous release fixes"],
-        "changelog_ru": ["Previous release fixes"],
-        "changelog_uk": ["Previous release fixes"]
     },
     "29.83": {
         "versionCode": 2173,
