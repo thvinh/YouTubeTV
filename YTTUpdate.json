@@ -14,6 +14,18 @@
         ]
     },
 
+    "31.17": {
+        "versionCode": 2307,
+        "changelog": ["The previous release regression fix: active element not focused in the multichoice dialog"],
+        "changelog_ru": ["Исправлена ​​ошибка предыдущей версии: активный элемент не был в фокусе в диалоговом окне с множественным выбором"],
+        "changelog_uk": ["Виправлення попереднього випуску: активний елемент не був у фокусі в діалоговому вікні з кількома варіантами вибору"]
+    },
+    "31.16": {
+        "versionCode": 2306,
+        "changelog": ["Added configurable sleep timer (0...10 hours) Settings/Player/Sleep timer", "Fix search for playlists inside a channel", "Previous release fixes: buffering fix, afr fix, casting fixes, fix unable to add new channel group"],
+        "changelog_ru": ["Добавлен настраиваемый таймер сна (0–10 часов) Настройки/Плеер/Таймер сна", "Исправлен поиск плейлистов внутри канала", "Исправление багов предыдущего релиза"],
+        "changelog_uk": ["Додано налаштовуваний таймер сну (0...10 годин) Налаштування/Плеєр/Таймер сну", "Виправлено пошук плейлистів на каналі", "Виправлення багів попереднього релізу"]
+    },
     "31.08": {
         "versionCode": 2298,
         "changelog": ["SponsorBlock: added the option to ignore short segments (default to 5 sec) Settings/SponsorBlock", "Unplayable videos fix, history syncing fix"],
