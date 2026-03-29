@@ -14,6 +14,12 @@
         ]
     },
 
+    "31.30": {
+        "versionCode": 2320,
+        "changelog": ["UI: added rounded card corners (Settings/UI/Misc/Rounded card corners - enabled by default)", "Fixed bugs in Block channel feature (Settings/General/Context menu/Block channel)", "Scheduled backup: fixed random pop-up dialog on Android 10+", "Previous release fixes"],
+        "changelog_ru": ["Интерфейс: добавлены закругленные углы карточек (Настройки/Пользовательский интерфейс/Разное/Закругленные углы карточек - включено по умолчанию)", "Исправлены ошибки в функции блокировки каналов (Настройки/Общие/Контекстное меню/Блокировка каналов)", "Плановое резервное копирование: исправлена ​​ошибка с появлением случайных всплывающих диалоговых окон на Android 10+"],
+        "changelog_uk": ["Інтерфейс: додані закруглені кути карток (Налаштування/Інтерфейс користувача/Різне/Закруглені кути карток - увімкнено за замовчуванням)", "Виправлено помилки у функції блокування каналу (Налаштування/Загальні/Контекстне меню/Блокування каналу)", "Заплановане резервне копіювання: виправлено випадкове спливаюче діалогове вікно на Android 10+"]
+    },
     "31.17": {
         "versionCode": 2307,
         "changelog": ["The previous release regression fix: active element not focused in the multichoice dialog"],
