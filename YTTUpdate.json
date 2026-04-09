@@ -14,6 +14,12 @@
         ]
     },
 
+    "31.45": {
+        "versionCode": 2335,
+        "changelog": ["Significant memory optimization to reduce crashes", "Player: auto-generated subtitles fix", "Added Dark Blue (OLED) color scheme (Settings/UI/Color schemes)", "Previous release fixes"],
+        "changelog_ru": ["Значительная оптимизация памяти для снижения числа вылетов приложения", "Плеер: исправление авто сгенерированных субтитров", "Добавлена Темно-синяя (OLED) ​​цветовая схема (Настройки/Интерфейс/Цветовые схемы)", "Исправлены ошибки из предыдущих версий"],
+        "changelog_uk": ["Значна оптимізація пам’яті для зменшення кількості аварійних закриттів", "Плеєр: виправлення автоматично згенерованих субтитрів", "Додано темно-синю (OLED) кольорову схему (Налаштування/Інтерфейс користувача/Кольорові схеми)", "Виправлення попередніх випусків"]
+    },
     "31.30": {
         "versionCode": 2320,
         "changelog": ["UI: added rounded card corners (Settings/UI/Misc/Rounded card corners - enabled by default)", "Fixed bugs in Block channel feature (Settings/General/Context menu/Block channel)", "Scheduled backup: fixed random pop-up dialog on Android 10+", "Previous release fixes"],
