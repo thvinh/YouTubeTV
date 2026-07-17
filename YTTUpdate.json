@@ -14,6 +14,36 @@
         ]
     },
 
+    "31.94": {
+        "versionCode": 2384,
+        "changelog": ["Playback error fixes", "Added a new option to improve VPN compatibility: Settings/General/Network settings/Enable Conscrypt", "Fire TV Cube crash fixes"],
+        "changelog_ru": ["Исправление ошибок воспроизведения", "Добавлена новая настройка для улучшения совместимости с VPN: Настройки/Общие/Настройки сети/Включить Conscrypt", "Исправления сбоев на Fire TV Cube"],
+        "changelog_uk": ["Виправлення помилок відтворення", "Додано новий параметр для покращення сумісності з VPN: Налаштування/Загальні/Налаштування мережі/Увімкнути Conscrypt", "Виправлення збоїв на Fire TV Cube"]
+    },
+    "31.73": {
+        "versionCode": 2363,
+        "changelog": ["Previous release hotfix"],
+        "changelog_ru": ["Срочное исправление предыдущей версии"],
+        "changelog_uk": ["Термінове виправлення попередньої версії"]
+    },
+    "31.72": {
+        "versionCode": 2362,
+        "changelog": ["Added 'Add to Watch later' context menu (Settings/General/Context menu)", "Improved HDR10+ compatibility on some devices", "Previous release fixes"],
+        "changelog_ru": ["Добавлено контекстное меню 'Добавить в Просмотреть позже' (Настройки/Общие/Контекстное меню)", "Улучшена совместимость с HDR10+ на некоторых устройствах", "Исправление багов предыдущего релиза"],
+        "changelog_uk": ["Додано контекстне меню 'Додати до Дивитися пізніше' (Налаштування/Загальні/Контекстне меню)", "Покращено сумісність із HDR10+ на деяких пристроях", "Виправлення багів попереднього релізу"]
+    },
+    "31.63": {
+        "versionCode": 2353,
+        "changelog": ["Unplayable videos fix and memory consumption optimizations"],
+        "changelog_ru": ["Исправление проблем с воспроизведением видео и оптимизация потребления памяти"],
+        "changelog_uk": ["Виправлення непрацюючих відео та оптимізація споживання пам'яті"]
+    },
+    "31.57": {
+        "versionCode": 2347,
+        "changelog": ["Empty search results fix", "Ability to delete individual items from the search history", "Improved history synchronization"],
+        "changelog_ru": ["Исправлена ​​ошибка с пустыми результатами поиска", "Возможность удаления отдельных элементов из истории поиска", "Улучшение синхронизация истории"],
+        "changelog_uk": ["Виправлення порожніх результатів пошуку", "Можливість видалення окремих елементів з історії пошуку", "Покращення синхронізація історії"]
+    },
     "31.45": {
         "versionCode": 2335,
         "changelog": ["Significant memory optimization to reduce crashes", "Player: auto-generated subtitles fix", "Added Dark Blue (OLED) color scheme (Settings/UI/Color schemes)", "Previous release fixes"],
