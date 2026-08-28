@@ -14,6 +14,12 @@
         ]
     },
 
+    "32.10": {
+        "versionCode": 2400,
+        "changelog": ["When selecting NotInterested, now you can choose among two reasons: I already watched the video or I don't like it", "YouTube Live Stream Latency Mitigator. This feature actively monitors playback delay on live streams and gently catches up to the true live edge whenever a lag or buffer occurs. (Note: Enabled by default; toggle options will be added if requested)", "Playback error fixes"],
+        "changelog_ru": ["При выборе Не интересно теперь можно указать одну из двух причин: Я уже посмотрел(а) это видео или Мне это не нравится", "Компенсация задержки прямых трансляций YouTube. Эта функция постоянно отслеживает задержку воспроизведения в прямых трансляциях и плавно возвращает просмотр к текущему моменту эфира при возникновении задержек или буферизации. (Примечание: включено по умолчанию; при наличии запросов будут добавлены параметры для управления функцией)", "Исправление ошибок воспроизведения"],
+        "changelog_uk": ["Під час вибору Не цікаво тепер можна вказати одну з двох причин: Я вже переглянув(ла) це відео або Мені це не подобається", "Компенсація затримки прямих трансляцій YouTube. Ця функція постійно відстежує затримку відтворення під час прямих трансляцій і плавно повертає перегляд до поточного моменту ефіру, якщо виникає затримка або буферизація. (Примітка: увімкнено за замовчуванням; за потреби буде додано параметри для керування функцією)", "Виправлення помилок відтворення"]
+    },
     "31.94": {
         "versionCode": 2384,
         "changelog": ["Playback error fixes", "Added a new option to improve VPN compatibility: Settings/General/Network settings/Enable Conscrypt", "Fire TV Cube crash fixes"],
