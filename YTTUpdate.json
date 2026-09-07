@@ -14,6 +14,12 @@
         ]
     },
 
+    "32.38": {
+        "versionCode": 2428,
+        "changelog": ["Playback and history fixes", "Misc crash fixes"],
+        "changelog_ru": ["Исправления воспроизведения и истории", "Исправлены ошибки, приводившие к сбоям"],
+        "changelog_uk": ["Виправлення відтворення та історії", "Виправлення збоїв"]
+    },
     "32.10": {
         "versionCode": 2400,
         "changelog": ["When selecting NotInterested, now you can choose among two reasons: I already watched the video or I don't like it", "YouTube Live Stream Latency Mitigator. This feature actively monitors playback delay on live streams and gently catches up to the true live edge whenever a lag or buffer occurs. (Note: Enabled by default; toggle options will be added if requested)", "Playback error fixes"],
