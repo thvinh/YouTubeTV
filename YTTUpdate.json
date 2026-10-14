@@ -14,6 +14,18 @@
         ]
     },
 
+    "32.56": {
+        "versionCode": 2446,
+        "changelog": ["Restored Not interested and Don't recommend channel context menu items", "Fixed Hide shorts in the News section (this option should be rechecked to apply)", "Fixes rare playback stutters caused by background sync", "Increased thumbnail resolution"],
+        "changelog_ru": ["Возвращены пункты контекстного меню Не интересует и Не рекомендовать канал", "Увеличено разрешение миниатюр"],
+        "changelog_uk": ["Повернуто пункти контекстного меню Не цікавить і Не рекомендувати канал", "Підвищено роздільну здатність мініатюр"]
+    },
+    "32.47": {
+        "versionCode": 2437,
+        "changelog": ["Fixed private and member-only videos not playing", "Fixed volume gradually drifting lower over time on some devices", "Blocked channels list is now sorted alphabetically, making it easier to find specific entries", "Fixed subtitles not displaying", "Various minor bug fixes"],
+        "changelog_ru": ["Исправлено воспроизведение приватных и доступных только участникам видео", "Исправлено постепенное снижение громкости со временем на некоторых устройствах", "Список заблокированных каналов теперь отсортирован по алфавиту — так нужные элементы проще найти", "Исправлено отображение субтитров", "Различные незначительные исправления ошибок"],
+        "changelog_uk": ["Виправлено відтворення приватних і доступних лише учасникам відео", "Виправлено поступове зниження гучності з часом на деяких пристроях", "Список заблокованих каналів тепер відсортовано за алфавітом — так потрібні елементи простіше знайти", "Виправлено відображення субтитрів", "Різні незначні виправлення помилок"]
+    },
     "32.38": {
         "versionCode": 2428,
         "changelog": ["Playback and history fixes", "Misc crash fixes"],
